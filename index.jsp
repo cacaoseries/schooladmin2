@@ -8,6 +8,6 @@
 <title>Git Test</title>
 </head>
 <body>
-<div>I am index</div>
+<div>I am index and My name is Tae-Yeong HWANG</div>
 </body>
 </html>
